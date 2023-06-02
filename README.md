@@ -1,3 +1,2 @@
 # Foundation
 Some Ideas, Packages, and Files to get the Ball Rolling...
-]
